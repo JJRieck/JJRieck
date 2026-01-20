@@ -1,7 +1,15 @@
-## Hi there 👋
+## Hi there 💫
+
+I'm Jen, a Certified Data Scientist as well as Communication scientist and Sociologist from Leipzig, Germany.
+
+✨ About me ✨ 
+
+- 💼 Consulting, social science and educational background. Worked as a Project coordinator and consultant in Democracy work for about 2.5 years
+- 📊 Transition to Data Science in December 2025
+- 📚 Loves to learn new skills and has a heart for data in different forms. Currently self-teaching myself SQL
+- 📫 How to reach me: www.linkedin.com/in/jennifer-rieck-92940118b
 
 <!--
-**JJRieck/JJRieck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
